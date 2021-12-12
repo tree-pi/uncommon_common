@@ -1,0 +1,4 @@
+strict digraph "" {
+	"community-squad" -> createbase	 [amount=300.0];
+	createbase -> berryclub	 [amount=150.0];
+}
