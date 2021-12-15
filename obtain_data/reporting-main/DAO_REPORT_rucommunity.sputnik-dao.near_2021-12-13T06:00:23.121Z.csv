@@ -1,0 +1,2 @@
+submission_time,id,proposer,status,kind,receiver_id,raw_amount,formatted_amount,token_id,near_price,vote_approve,vote_reject,vote_remove,description2021-09-22T12:25:14.307Z,0,rucommunity.near,Approved,Transfer,undefined,1000000000000000000000000,1.00,,10.08,1,0,0,"Thank you for this awesome bot!"
+2021-09-22T13:20:10.118Z,1,rucommunity.near,Approved,AddMemberToRole,,,0.00,,10.08,1,0,0,"Core Team"
